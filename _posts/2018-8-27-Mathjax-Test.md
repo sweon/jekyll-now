@@ -25,25 +25,3 @@ $$( a^2 )$$
 이차방정식의 근의 공식
 
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
-
-행렬
-
-\begin{pmatrix}
- 1 & a_1 & a_1^2 & \cdots & a_1^n \\
- 1 & a_2 & a_2^2 & \cdots & a_2^n \\
- \vdots  & \vdots& \vdots & \ddots & \vdots \\
- 1 & a_m & a_m^2 & \cdots & a_m^n    
- \end{pmatrix}
-
-나눗셈
-
-$$
-\require{enclose}
-\begin{array}{r}
-              13  \\[-3pt]
-4 \enclose{longdiv}{52} \\[-3pt]
-   \underline{4}\phantom{2} \\[-3pt]
-              12  \\[-3pt]
-   \underline{12}
-\end{array}
-$$
