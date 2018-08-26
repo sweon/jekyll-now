@@ -1,10 +1,7 @@
 ---
 layout: post
 mathjax: true
-comments: true
-title:  "Adding MathJax to a GitHub Pages Jekyll Blog"
-date:   2016-08-21 23:41:54 +0000
-categories: github jekyll
+title: Blogging Like a Hacker
 ---
 
 http://sgeos.github.io/github/jekyll/2016/08/21/adding_mathjax_to_a_jekyll_github_pages_blog.html
