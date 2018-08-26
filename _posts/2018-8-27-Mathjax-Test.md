@@ -8,6 +8,8 @@ title: Blogging Like a Hacker
 
 http://sgeos.github.io/github/jekyll/2016/08/21/adding_mathjax_to_a_jekyll_github_pages_blog.html
 
+https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html
+
 한글이 잘 되는지 확인.
 
 $$\sum_{n=1}^\infty 1/n^2 = \frac{\pi^2}{6}$$
